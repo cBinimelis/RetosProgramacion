@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FizzBuzz", "01_FizzBuzz\01_FizzBuzz.csproj", "{B31A135A-6D04-4A6F-ABDC-D95478067869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Anagrama", "02_anagrama\02_Anagrama.csproj", "{C012B120-FE72-461C-98D2-E051E5572F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31A135A-6D04-4A6F-ABDC-D95478067869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31A135A-6D04-4A6F-ABDC-D95478067869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31A135A-6D04-4A6F-ABDC-D95478067869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31A135A-6D04-4A6F-ABDC-D95478067869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C012B120-FE72-461C-98D2-E051E5572F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C012B120-FE72-461C-98D2-E051E5572F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C012B120-FE72-461C-98D2-E051E5572F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C012B120-FE72-461C-98D2-E051E5572F07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
